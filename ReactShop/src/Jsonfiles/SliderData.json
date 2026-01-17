@@ -1,0 +1,26 @@
+[
+    {
+        "id"          : "1",
+        "SliderImage" : "/Sliders/Slider1.png",
+        "Heading"     : "Clear Vision Everyday",
+        "Description" : "Eyeglasses that give you crystal clear vision and all-day comfort.",
+        "ButtonText"  : "Shop Now",
+        "ButtonLink"  : "/products"
+    },
+    {
+        "id"          : "2",
+        "SliderImage" : "/Sliders/Slider2.png",
+        "Heading"     : "Style That Fits You",
+        "Description" : "Modern frames that look perfect with every face and every outfit.",
+        "ButtonText"  : "Shop Now",
+        "ButtonLink"  : "/products"
+    },
+    {
+        "id"          : "3",
+        "SliderImage" : "/Sliders/Slider3.png",
+        "Heading"     : "Comfort Meets Clarity",
+        "Description" : "Lightweight frames and advanced lenses for better vision.",
+        "ButtonText"  : "Shop Now",
+        "ButtonLink"  : "/products"
+    }
+]

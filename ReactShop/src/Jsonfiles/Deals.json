@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "1",
+    "CardImage": "/ProductImages/product1.jpg",
+    "Title": "Classic Aviator Glasses",
+    "Price": "Rs 1999",
+    "slug": "classic-aviator-glasses",
+    "description": "Timeless aviator design with metal frame and gradient lenses. Perfect for everyday wear, offering UV protection and superior comfort. Lightweight and durable for long-lasting style."
+  },
+  {
+    "Id": "2",
+    "CardImage": "/ProductImages/product2.webp",
+    "Title": "Retro Round Glasses",
+    "Price": "Rs 1799",
+    "slug": "retro-round-glasses",
+    "description": "Vintage-inspired round frames that bring back the classic 70s vibe. Premium acetate material with anti-reflective coating for clear vision and a touch of nostalgia."
+  },
+  {
+    "Id": "3",
+    "CardImage": "/ProductImages/product3.webp",
+    "Title": "Square Frame Glasses",
+    "Price": "Rs 2199",
+    "slug": "square-frame-glasses",
+    "description": "Bold square frames that add a modern edge to any look. High-quality TR90 material ensures flexibility and comfort for all-day wear."
+  },
+  {
+    "Id": "4",
+    "CardImage": "/ProductImages/product4.jpg",
+    "Title": "Cat Eye Glasses",
+    "Price": "Rs 2499",
+    "slug": "cat-eye-glasses",
+    "description": "Elegant cat-eye shape that flatters most face types. Stylish acetate frame with subtle shimmer for a sophisticated and feminine touch."
+  },
+  {
+    "Id": "5",
+    "CardImage": "/ProductImages/product5.webp",
+    "Title": "Transparent Frame Glasses",
+    "Price": "Rs 1599",
+    "slug": "transparent-frame-glasses",
+    "description": "Minimalist transparent frames for a barely-there look. Lightweight and trendy, perfect for subtle style with full UV protection."
+  },
+  {
+    "Id": "6",
+    "CardImage": "/ProductImages/product6.jpg",
+    "Title": "Blue Light Blocking Glasses",
+    "Price": "Rs 2999",
+    "slug": "blue-light-blocking-glasses",
+    "description": "Advanced blue light filtering lenses to reduce eye strain during screen time. Stylish metal frame with comfortable nose pads for extended use."
+  },
+  {
+    "Id": "7",
+    "CardImage": "/ProductImages/product7.webp",
+    "Title": "Full Rim Metal Glasses",
+    "Price": "Rs 1899",
+    "slug": "full-rim-metal-glasses",
+    "description": "Classic full-rim metal design for a professional look. Hypoallergenic material with adjustable nose pads for perfect fit."
+  },
+  {
+    "Id": "8",
+    "CardImage": "/ProductImages/product8.jpg",
+    "Title": "Half Rim Round Glasses",
+    "Price": "Rs 2299",
+    "slug": "half-rim-round-glasses",
+    "description": "Sophisticated half-rim round frames that combine elegance and modernity. Lightweight design ideal for daily professional use."
+  }
+]

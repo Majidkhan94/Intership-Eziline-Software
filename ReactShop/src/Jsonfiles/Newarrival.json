@@ -1,0 +1,64 @@
+[{
+    "Id": "21",
+    "CardImage": "/ProductImages/product21.webp",
+    "Title": "Classic Rectangle Sunglasses",
+    "Price": "Rs 2299",
+    "slug": "classic-rectangle-sunglasses",
+    "description": "Timeless rectangular shape with full UV protection. Durable frame for everyday sun protection."
+  },
+  {
+    "Id": "22",
+    "CardImage": "/ProductImages/product22.jpg",
+    "Title": "Trendy Round Sunglasses",
+    "Price": "Rs 2499",
+    "slug": "trendy-round-sunglasses",
+    "description": "Fashion-forward round sunglasses with mirrored lenses. Bold and stylish statement piece."
+  },
+  {
+    "Id": "23",
+    "CardImage": "/ProductImages/product23.webp",
+    "Title": "Lightweight Aviator Sunglasses",
+    "Price": "Rs 1999",
+    "slug": "lightweight-aviator-sunglasses",
+    "description": "Classic aviator style in lightweight construction. Ideal for long wear with excellent glare reduction."
+  },
+  {
+    "Id": "24",
+    "CardImage": "/ProductImages/product24.webp",
+    "Title": "Fashion Square Sunglasses",
+    "Price": "Rs 1799",
+    "slug": "fashion-square-sunglasses",
+    "description": "Modern square frames with trendy design. Perfect balance of style and sun protection."
+  },
+  {
+    "Id": "25",
+    "CardImage": "/ProductImages/product25.jpg",
+    "Title": "Luxury Metal Sunglasses",
+    "Price": "Rs 2999",
+    "slug": "luxury-metal-sunglasses",
+    "description": "Premium metal construction with luxurious finish. High-end polarized lenses for superior clarity."
+  },
+  {
+    "Id": "26",
+    "CardImage": "/ProductImages/product26.webp",
+    "Title": "Vintage Clubmaster Sunglasses",
+    "Price": "Rs 2499",
+    "slug": "vintage-clubmaster-sunglasses",
+    "description": "Retro clubmaster design with vintage charm. Perfect blend of classic and contemporary style."
+  },
+  {
+    "Id": "27",
+    "CardImage": "/ProductImages/product27.jpg",
+    "Title": "Elegant Oval Sunglasses",
+    "Price": "Rs 2599",
+    "slug": "elegant-oval-sunglasses",
+    "description": "Graceful oval shape with elegant detailing. UV protection with sophisticated look."
+  },
+  {
+    "Id": "28",
+    "CardImage": "/ProductImages/product28.webp",
+    "Title": "Trendy Gradient Lens Sunglasses",
+    "Price": "Rs 2699",
+    "slug": "trendy-gradient-lens-sunglasses",
+    "description": "Fashionable gradient lenses in trendy frame. Stylish protection for sunny days."
+  }]

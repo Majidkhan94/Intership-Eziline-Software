@@ -1,0 +1,96 @@
+[ {
+    "Id": "9",
+    "CardImage": "/ProductImages/product9.jpg",
+    "Title": "Vintage Retro Glasses",
+    "Price": "Rs 1999",
+    "slug": "vintage-retro-glasses",
+    "description": "Authentic vintage-inspired retro style with premium acetate. Perfect blend of old-school charm and contemporary comfort."
+  },
+  {
+    "Id": "10",
+    "CardImage": "/ProductImages/product10.webp",
+    "Title": "Slim Rectangular Glasses",
+    "Price": "Rs 1799",
+    "slug": "slim-rectangular-glasses",
+    "description": "Sleek slim rectangular frames for a clean and modern appearance. Ultra-lightweight with anti-scratch coating."
+  },
+  {
+    "Id": "11",
+    "CardImage": "/ProductImages/product11.jpg",
+    "Title": "Bold Square Frame Glasses",
+    "Price": "Rs 2599",
+    "slug": "bold-square-frame-glasses",
+    "description": "Statement-making bold square frames that command attention. Durable material with superior lens clarity."
+  },
+  {
+    "Id": "12",
+    "CardImage": "/ProductImages/product12.webp",
+    "Title": "Elegant Oval Glasses",
+    "Price": "Rs 1999",
+    "slug": "elegant-oval-glasses",
+    "description": "Graceful oval shape that suits most face shapes. Soft acetate with polished finish for refined elegance."
+  },
+  {
+    "Id": "13",
+    "CardImage": "/ProductImages/product13.jpg",
+    "Title": "Geometric Frame Glasses",
+    "Price": "Rs 2199",
+    "slug": "geometric-frame-glasses",
+    "description": "Unique geometric design for a contemporary fashion statement. High-quality lenses with UV400 protection."
+  },
+  {
+    "Id": "14",
+    "CardImage": "/ProductImages/product14.webp",
+    "Title": "Fashion Transparent Glasses",
+    "Price": "Rs 1699",
+    "slug": "fashion-transparent-glasses",
+    "description": "Trendy transparent frames that pair perfectly with any outfit. Ultra-light and comfortable for all-day wear."
+  },
+  {
+    "Id": "15",
+    "CardImage": "/ProductImages/product15.webp",
+    "Title": "Classic Clubmaster Glasses",
+    "Price": "Rs 2299",
+    "slug": "classic-clubmaster-glasses",
+    "description": "Iconic clubmaster style with premium acetate and metal accents. Timeless design loved by fashion enthusiasts."
+  },
+  {
+    "Id": "16",
+    "CardImage": "/ProductImages/product16.jpg",
+    "Title": "Gradient Lens Glasses",
+    "Price": "Rs 2399",
+    "slug": "gradient-lens-glasses",
+    "description": "Stylish gradient lenses with full UV protection. Modern frame design that transitions perfectly from day to night."
+  },
+  {
+    "Id": "17",
+    "CardImage": "/ProductImages/product17.webp",
+    "Title": "Minimalist Metal Glasses",
+    "Price": "Rs 1899",
+    "slug": "minimalist-metal-glasses",
+    "description": "Clean minimalist metal frames for understated elegance. Lightweight with adjustable nose pads for comfort."
+  },
+  {
+    "Id": "18",
+    "CardImage": "/ProductImages/product18.jpg",
+    "Title": "Lightweight Titanium Glasses",
+    "Price": "Rs 2799",
+    "slug": "lightweight-titanium-glasses",
+    "description": "Ultra-lightweight titanium frames that feel weightless. Hypoallergenic and extremely durable for daily use."
+  },
+  {
+    "Id": "19",
+    "CardImage": "/ProductImages/product19.webp",
+    "Title": "Retro Oval Glasses",
+    "Price": "Rs 1999",
+    "slug": "retro-oval-glasses",
+    "description": "Charming retro oval design with vintage appeal. Soft acetate material with comfortable fit."
+  },
+  {
+    "Id": "20",
+    "CardImage": "/ProductImages/product20.jpg",
+    "Title": "Polarized Sunglasses",
+    "Price": "Rs 2499",
+    "slug": "polarized-sunglasses",
+    "description": "High-quality polarized lenses that reduce glare. Perfect for driving and outdoor activities."
+  }]
