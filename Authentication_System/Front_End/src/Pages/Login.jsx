@@ -18,7 +18,8 @@ export const Login = ()=>{
             dispatch(login())
               try {
                 const data =  { email, password };
-                const response = await axios.post("/api/v1/auth/login", data);
+                const API_BASE = import.meta.env.VITE_AUTHENTICATION_SYSTEM_API_URL;
+                const response = await axios.post(`${API_BASE}/login`, data);
                 localStorage.setItem("token", response.data.data.token);
                 localStorage.setItem("user", JSON.stringify(response.data.data.user));
                 dispatch(loginSuccess({
