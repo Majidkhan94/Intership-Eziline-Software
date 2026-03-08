@@ -19,7 +19,7 @@ export const Login = ()=>{
               try {
                 const data =  { email, password };
                 const API_BASE = import.meta.env.VITE_AUTHENTICATION_SYSTEM_API_URL;
-                const response = await axios.post(`${API_BASE}/login`, data);
+                const response = await axios.post(`${API_BASE}/login`, data,{ withCredentials: true });
                 localStorage.setItem("token", response.data.data.token);
                 localStorage.setItem("user", JSON.stringify(response.data.data.user));
                 dispatch(loginSuccess({
