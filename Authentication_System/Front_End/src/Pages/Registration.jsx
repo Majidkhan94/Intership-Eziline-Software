@@ -19,6 +19,7 @@ export const Registration = ()=>{
       dispatch(register())
       try {
           const userdata = { username, email, password, role: "user" }
+          const API_BASE = import.meta.env.VITE_AUTHENTICATION_SYSTEM_API_URL;
           const response = await axios.post("/api/v1/auth/registration", userdata)
           dispatch(registerSuccess(response.data.message))
           navigate("/login");
