@@ -28,7 +28,7 @@ export const login = asyncHandler( async (req,res,next)=>{
        await user.save({ validateBeforeSave: false });
 
       // Options
-      const Options = { httpOnly: true, secure : true }
+      const Options = { httpOnly: true, secure : true, sameSite: "none" }
       
       
        // Response
