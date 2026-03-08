@@ -1,0 +1,6 @@
+{
+  "build": {
+    "builder": "DOCKERFILE",
+    "dockerfilePath": "Authentication_System/Back_End/Dockerfile"
+  }
+}
