@@ -2,5 +2,9 @@
   "build": {
     "builder": "DOCKERFILE",
     "dockerfilePath": "Authentication_System/Back_End/Dockerfile"
+  },
+  "deploy": {
+    "startCommand": "npm start",
+    "rootDir": "Authentication_System/Back_End"
   }
 }
