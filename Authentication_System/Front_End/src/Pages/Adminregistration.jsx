@@ -19,7 +19,9 @@ export const Adminregistration = () => {
         dispatch(register())
         try {
           const userData = { username, email, password, role: "admin" };
-          const response = await axios.post("/api/v1/auth/adminregistration", userData);
+        const API_BASE = import.meta.env.VITE_AUTHENTICATION_SYSTEM_API_URL;
+
+          const response = await axios.post(`${API_BASE}/adminregistration`, userData);
           dispatch(registerSuccess(response.data.message));
           navigate("/login");
         } catch (error) {
