@@ -47,6 +47,10 @@ npm install
 npm run dev
 ```
 
+## Internship Certificate
+
+📄 [View Certificate (PDF)](./Ezitech_Intership.pdf)
+
 ## Purpose
 
 This repository documents my journey of learning the MERN stack during my internship preparation — starting from frontend fundamentals (HTML/CSS) to building full React applications, and eventually integrating authentication and backend concepts with Node.js, Express, and MongoDB.
